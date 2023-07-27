@@ -18,7 +18,7 @@
     "ccxt": "^1.27.46",
     "chalk": "^4.0.0",
     "debug": "^4.1.1",
-    "mocha": "^7.1.2",
+    "mocha": "^10.2.0",
     "mongodb": "^3.5.6",
     "mongoose": "^5.9.10",
     "node-localstorage": "^2.1.6",
